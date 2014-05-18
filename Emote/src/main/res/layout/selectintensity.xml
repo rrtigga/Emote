@@ -15,5 +15,13 @@
              android:layout_alignParentTop="true"
              android:layout_centerHorizontal="true"></SeekBar>
 
+    <ImageButton
+        android:id="@+id/selectbutton"
+        android:layout_width="195dp"
+        android:layout_height="60dp"
+        android:background="@android:color/transparent"
+        android:text=""
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="300dp" ></ImageButton>
 
 </RelativeLayout>
