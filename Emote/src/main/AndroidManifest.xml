@@ -21,6 +21,12 @@
             android:name=".Select_Intensity_Activity"
             android:label="@string/app_name">
         </activity>
+
+        <activity
+            android:name=".Mood_Record_Activity"
+            android:label="@string/app_name">
+        </activity>
+
     </application>
 
 </manifest>
